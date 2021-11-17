@@ -101,7 +101,7 @@ X_test,Y_test = X_test.T,Y_test.values.reshape(1,Y_test.shape[0])
 
 # Initializing the object of class to access the Methods for Appropriate Operations
 Lr = LogisticRegression()
-print("===================== Part 1 - Logistic Regression Classicfication =====================\n\n")
+print("===================== Part 1 - Logistic Regression Classification =====================\n\n")
 w,b,loss_list,accuracy_list = Lr.model(X_train,Y_train)
 
 # Fetching the Accuracy of Training, Validation and Test Dataset after training the Model
