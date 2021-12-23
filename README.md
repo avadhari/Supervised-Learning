@@ -7,3 +7,5 @@ The Repository has code for the Logistic Regression and Artificial Neural Networ
 
 
 The accuracy of the supervised model is calculated after predicting.
+
+As a part of CSE 574 Intro to Machine Learning Project Assignment.
